@@ -4,4 +4,17 @@ body {
 
     backdrop-filter: blur(10px); 
     background-color: rgba(255, 255, 255, 0.123);
+
+    font-family: sans-serif;
+}
+
+p {
+    padding: 4px;
+    margin: 0%;
+}
+
+.Header {
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(61, 80, 255);
 }
